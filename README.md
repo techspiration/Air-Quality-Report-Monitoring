@@ -3,7 +3,6 @@ Interactive Air Quality Dashboard built using Power BI, Python, and SQL — anal
 
 # 🌍 Air Quality Monitoring Dashboard (2015 – 2020)
 
-![Dashboard Preview](./Screenshot%20(28).png)
 
 ## 🧭 Project Overview  
 An interactive **Power BI dashboard** that visualizes and analyzes **Air Quality Index (AQI)** and major pollutants — *PM2.5, PM10, CO, NO, and SO₂* — across Indian cities between **2015 and 2020**.  
